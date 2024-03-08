@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=/wp-login.php?redirect_to=https%3A%2F%2Fcubiikcom.wpcomstaging.com%2Fwp-admin%2Fedit-comments.php%3Fcomment_status%3Dmoderated%26simply_static_page%3D12667&reauth=1">
+		<meta http-equiv="refresh" content="0;url=/wp-login.php?redirect_to=https%3A%2F%2Fcubiikcom.wpcomstaging.com%2Fwp-admin%2Fedit-comments.php%3Fcomment_status%3Dmoderated%26simply_static_page%3D15756&reauth=1">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "/wp-login.php?redirect_to=https%3A%2F%2Fcubiikcom.wpcomstaging.com%2Fwp-admin%2Fedit-comments.php%3Fcomment_status%3Dmoderated%26simply_static_page%3D12667&reauth=1";
+			window.location = "/wp-login.php?redirect_to=https%3A%2F%2Fcubiikcom.wpcomstaging.com%2Fwp-admin%2Fedit-comments.php%3Fcomment_status%3Dmoderated%26simply_static_page%3D15756&reauth=1";
 		</script>
 
-		<p>You are being redirected to <a href="/wp-login.php?redirect_to=https%3A%2F%2Fcubiikcom.wpcomstaging.com%2Fwp-admin%2Fedit-comments.php%3Fcomment_status%3Dmoderated%26simply_static_page%3D12667&reauth=1">/wp-login.php?redirect_to=https%3A%2F%2Fcubiikcom.wpcomstaging.com%2Fwp-admin%2Fedit-comments.php%3Fcomment_status%3Dmoderated%26simply_static_page%3D12667&reauth=1</a></p>
+		<p>You are being redirected to <a href="/wp-login.php?redirect_to=https%3A%2F%2Fcubiikcom.wpcomstaging.com%2Fwp-admin%2Fedit-comments.php%3Fcomment_status%3Dmoderated%26simply_static_page%3D15756&reauth=1">/wp-login.php?redirect_to=https%3A%2F%2Fcubiikcom.wpcomstaging.com%2Fwp-admin%2Fedit-comments.php%3Fcomment_status%3Dmoderated%26simply_static_page%3D15756&reauth=1</a></p>
 	</body>
 </html>
